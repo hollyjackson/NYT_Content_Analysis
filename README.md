@@ -69,3 +69,7 @@ This script provides a user interface to generate a training set from a sample o
 
 This script counts references to violence in articles processed by my NLP pipeline.  It should be run after `preprocessing.py` and `generate_training_set.py`.
 
+### Plotting
+
+I have not included any plotting scripts since they were specific to the the data I mined and the topics I focused on.  There are many equally successful and useful ways to plot the data, and those should be explored by the researcher. 
+
