@@ -4,11 +4,11 @@ This code accompanies the pre-print ["The *New York Times* Distorts the Palestin
 
 This codebase is run on an archived version of the concretely-annotated *New York Times*, documented at this reference:
 
->> Francis Ferraro, Max Thomas, Matthew Gormley, Travis Wolfe, Craig Harman, and Benjamin Van Durme. "Concretely Annotated Corpora." *In The Proceedings of the NIPS Workshop on Automated Knowledge Base Construction (AKBC)*. NIPS Workshop 2014.
+> Francis Ferraro, Max Thomas, Matthew Gormley, Travis Wolfe, Craig Harman, and Benjamin Van Durme. "Concretely Annotated Corpora." *In The Proceedings of the NIPS Workshop on Automated Knowledge Base Construction (AKBC)*. NIPS Workshop 2014.
 
 My content analysis was performed in python 3.8 on a 16-core Ubuntu 18.04 machine
 
-### Setup
+## Setup
 
 Clone the repo and submodules
 
@@ -16,7 +16,7 @@ Clone the repo and submodules
 git clone --recurse-submodules https://github.com/hollyjackson/NYT_Content_Analysis.git
 ```
 
-#### Requirements
+### Requirements
 
 This codebase requires a number of natural language processing libraries:
 
