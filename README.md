@@ -38,7 +38,7 @@ This script preprocesses the Concretely Annotated *New York Times* and parses ar
 The script can be run as follows with two optional command-line arguments:
 
 ```shell
-python3 preprocessing.py --year {'first_intifada' or 'second_intifada'} --intifada {True or False}
+python3 preprocessing.py --intifada {'first_intifada' or 'second_intifada'} --verbose {True or False}
 ```
 
 The defaults are `'first_intifada'` and `False`.
