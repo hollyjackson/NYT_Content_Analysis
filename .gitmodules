@@ -1,0 +1,3 @@
+[submodule "concrete-python"]
+	path = concrete-python
+	url = https://github.com/hltcoe/concrete-python.git

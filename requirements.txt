@@ -1,0 +1,11 @@
+concrete-python
+numba
+numpy
+spacy
+nltk
+tqdm
+keras
+pandas
+codecs
+sklearn
+matplotlib
