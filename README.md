@@ -25,11 +25,13 @@ This codebase requires a number of natural language processing libraries:
 * [scikit-learn](https://scikit-learn.org/stable/)
 * [Keras](https://keras.io/)
 
-These -- along with other required libraries -- can all be installed as follows:
+These, along with other required libraries, can all be installed as follows:
 
 ```shell
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
+
+## Usage
 
 ### `preprocessing.py`
 
