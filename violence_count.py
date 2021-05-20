@@ -3,10 +3,10 @@
 '''
 File name: violence_count.py
 Author: Holly Jackson
-Date last modified: 5/19/2021
+Date last modified: 5/20/2021
 Python Version: 3.8
 
-This script articles counts references to violence in articles
+This script counts references to violence in articles
 processed by my NLP pipeline.
 
 It should be run after preprocessing.py and voice_identifier.py.
