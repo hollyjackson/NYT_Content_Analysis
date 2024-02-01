@@ -1,6 +1,6 @@
 # Content Analysis of the *New York Times*
 
-This code accompanies the pre-print ["The *New York Times* Distorts the Palestinian Struggle: A Case Study of Anti-Palestinian Bias in American News Coverage of the First and Second Palestinian Intifadas"](http://web.mit.edu/hjackson/www/The_NYT_Distorts_the_Palestinian_Struggle.pdf), recently submitted to the *Journal of Palestine Studies*.  The study proves a history of bias against Palestine in the *New York Times* during the First and Second Palestinian Intifadas.
+This code accompanies journal paper ["*The New York Times* distorts the Palestinian struggle: A case study of anti-Palestinian bias in US news coverage of the First and Second Palestinian Intifadas"](https://journals.sagepub.com/doi/full/10.1177/17506352231178148) published in _Media, War & Conflict_.  An earlier pre-print of this study is available [here for free](http://web.mit.edu/hjackson/www/The_NYT_Distorts_the_Palestinian_Struggle.pdf).  The study provides a a methodologically novel, large-scale proof of historical bias against Palestine in *The New York Times* during the First and Second Palestinian Intifadas.
 
 This codebase is run on an archived version of the concretely-annotated *New York Times*, documented at this reference:
 
